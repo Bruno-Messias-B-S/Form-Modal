@@ -27,7 +27,8 @@ export const Container = styled.div`
 
     img {
         width:30px;
-        margin-top:20px;
+        margin-top:15px;
+        margin-bottom:-15px;
         cursor:pointer;
     }
 
@@ -101,6 +102,11 @@ export const Container = styled.div`
             border-bottom:1px solid white;
             color:white;
         }
+    }
+
+    .error-message {
+        color:red;
+        margin:5px 0px;
     }
 
     @media (max-width:700px) {
