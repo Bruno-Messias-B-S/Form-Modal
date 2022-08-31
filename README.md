@@ -1,10 +1,13 @@
 # Form using modal
 
 ## | About
-<p>This is a project where I used some new stuff that I've learned in ReactJS.</p>
+<p>This is a project where I used some new stuff that I've learned in ReactJS. It includes a small form validation.</p>
 
 ## | Overview
 <img alt="Overview" src="./src/ReadMeFiles/form-reactjs.gif" />
+
+## | Validation
+<img alt="Overview" src="./src/ReadMeFiles/validation.gif" />
 
 ## | Mobile Version
 <img alt="Mobile-Version" src="./src/ReadMeFiles/form-reactjs-mobile.gif" />
